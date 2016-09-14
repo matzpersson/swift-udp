@@ -1,5 +1,5 @@
 # Swift UDP Broadcast receiver
- Great for notifying Swift app when server data changes. Works together with UDP Broadcasting Server https://github.com/matzpersson/udp-broadcasting.git
+ Great for notifying Swift IOS app when server data changes. Works together with UDP Broadcasting Server https://github.com/matzpersson/udp-broadcasting.git
  
 # Dependicies
 This code is dependent on CocoaAsyncSocket on https://github.com/robbiehanson/CocoaAsyncSocket. Requires a 
