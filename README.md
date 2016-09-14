@@ -12,7 +12,7 @@ pod 'CocoaAsyncSocket'
 ````
 
 # Usage
-Launch from Workspace file, type in connection details and wait for incoming messages.
+Launch from Workspace file, type in connection details and wait for incoming messages. Use UDP Broadcasting Server https://github.com/matzpersson/udp-broadcasting.git to broadcast test messages.
 
 # Copyright
 Copyright 2016 Headstation. (http://headstation.com) All rights reserved. It is free software and may be redistributed under the terms specified in the LICENSE file (Apache License 2.0). 
